@@ -1,7 +1,7 @@
 # Hi there. 👋 I'm Jerry Odumbe 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jerryodumbe&show_icons=true&theme=algolia" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jerryodumbe&show_icons=true&theme=gotham" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryodumbe&langs_count=4&layout=compact)](https://github.com/jerryodumbe/github-readme-stats" />
 
 
