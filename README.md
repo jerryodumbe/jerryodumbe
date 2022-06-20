@@ -13,8 +13,6 @@ Jerry Odumbe is an enthusiastic devotee of technological advancements and their 
 
 -------------------------------------------------------------------------------------------------
 
-Rudimentary knowledge on the languages / tools listed below
-
 ### Mobile App Development
 
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
